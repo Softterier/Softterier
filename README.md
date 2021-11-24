@@ -1,10 +1,8 @@
 ### Softterier 👋
 
-### Hola 👋, Mi Nombre es Pedro Antonio Rivera
-#### Soy Programador y utilizo GitHub como repositorio base de los Proyectos
-![Soy Programador y utilizo GitHub como repositorio base de los Proyectos](href:/Softterier/Banner_Git.png)
-
-Durante mi vida profesional he desarrollado bases de datos, comencé con **MS Access **, FoxPro 9 y trabaje el código visual en aplicaciones Cliente Servidor.
+<img src="Banner_Git.png" alt="Girl in a jacket">
+!Soy Programador y utilizo GitHub como repositorio base de los Proyecto]
+Durante mi vida profesional he desarrollado bases de datos, comencé con MS Access, FoxPro 9 y trabaje el código visual en aplicaciones Cliente Servidor.
 Los cambios de TI nos llevaron al la Internet y ya hacemos aplicaciones en tres capas, con front end la Nube, capa logica en el equipo cliente, y la logica en  
 
 Habilidades: Visual Basic / HTML / CSS / PHP.
