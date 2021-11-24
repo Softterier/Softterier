@@ -9,7 +9,7 @@ Trabajo en la Oficina Planeacion como Gestor de proyectos en una Entidad del Est
 ### Pertenecia y Competencias Técnicas.
 
 - 😄 Estoy trabajando en el Proyecto <a href="https://softterier.github.io/Protopito-PGN/">Patrimonio</a>  
-- 🔭 Aplicación Tetodologia PMI para el inicio, seguimiento, desarrollo y entrega de proyectos.
+- 🔭 Aplicación Metodologia PMI para el inicio, seguimiento, desarrollo y entrega de proyectos.
 - 📝 Documentación: Manual Técnico Proyecto, Manual de Usuario, Diagramas UML, Casos de USO, Sure Step. 
 - 📫 Habilidades Blandas en Governance TI - Cobit, PMP, SCAMPI - CMMI, Agile, Kanban.
 - 🌱 Practica y aprendizaje en la creacion paginas Web con formularios de captura de datos.
