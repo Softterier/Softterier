@@ -1,22 +1,23 @@
 ### Softterier 👋
 
 <img src="Banner_Git.png" alt="Girl in a jacket">
-!Soy Programador y utilizo GitHub como repositorio base de los Proyecto]
-Durante mi vida profesional he desarrollado bases de datos, comencé con MS Access, FoxPro 9 y trabaje el código visual en aplicaciones Cliente Servidor.
-Los cambios de TI nos llevaron al la Internet y ya hacemos aplicaciones en tres capas, con front end la Nube, capa logica en el equipo cliente, y la logica en  
 
-Habilidades: Visual Basic / HTML / CSS / PHP.
+Incialmente desarrollaba aplicaciones cliente Servidor con bases de datos MS Access, FoxPro 9, con codigo Visual Studio y motor SQL Server.
+Los cambios Tecnológicos de TI nos llevaron a incursionar con aplicaciones WEB, colocando en Internet la capa de presentación,
+La capa logica en el equipos del Usuario, y la capa de Datos en los servidores de Datos con Azure SQL Database en la Nube privada. 
 
-- 🔭 Estoy trabajando en this page. 
+Trabajo en la Oficina Planeacion como ##Gestor de proyectos en una Entidad del Estado. ##
 
-Deseo mostrar la permanencia eneste espacio:
+### Pertenecia y Competencias Tecnicas.
 
-- 🔭 I’m currently working on Gobernance Institutions
-- 🌱 I’m currently learning programations
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 😄 Estoy trabajando en el Proyecto 'Patrimonio' href="https://softterier.github.io/Protopito-PGN/"></a>  
+- 🔭 Documentacion Tecnica para inicio, seguimiento, desarrollo y entrega de proyectos.
+- 📝 -Diagramas UML, Casos de USO. 
+- 🌱 Practica y aprendizaje creacion paginas Web y Lenguajes.
+- 👯 Lenguajes de Programacion Java, Phyton, C#.
+- 🤔 Plataformas de SaaS, PaaS, IaaS en la Nube.
+- 💬 Experimentos y algoritmos con de Machine Learning.
+- 📫 Habilidades Blandas en Governance TI - Cobit, PMP, SCAMPI - CMMI, Agile, Kanban. 
+- 😄 Propositos. Analista de Datos BI, BigData, Power BI.
+- ⚡ Crecer como Programador Full Stack, trabajar con Github, Git, VisualStudio Code.
+- 💼 Habilidades: Visual Basic / HTML / CSS / PHP / C# / SharePoint.
