@@ -11,14 +11,14 @@ Trabajo en la Oficina Planeacion como Gestor de proyectos en una Entidad del Est
 ### Pertenecia y Competencias Técnicas.
 
 - 😄 Estoy trabajando en el Proyecto <a href="https://softterier.github.io/Protopito-PGN/">Patrimonio</a>  
-- 🔭 Documentacion Tecnica para inicio, seguimiento, desarrollo y entrega de proyectos.
-- 📝 Manual Técnico Proyecto, Manual de Usuario, Diagramas UML, Casos de USO. 
-- 🌱 Practica y aprendizaje creacion paginas Web y Lenguajes.
-- 💼 Habilidades: Visual Basic / HTML / CSS / PHP / C# / SharePoint.
-- 👯 Lenguajes de Programacion Java, Phyton, C#.
-- 🤔 Plataformas de SaaS, PaaS, IaaS en la Nube.
-- 💬 Experimentos y algoritmos con de Machine Learning.
-- 📫 Habilidades Blandas en Governance TI - Cobit, PMP, SCAMPI - CMMI, Agile, Kanban. 
+- 🔭 Aplicación Tetodologia PMI para el inicio, seguimiento, desarrollo y entrega de proyectos.
+- 📝 Documentación: Manual Técnico Proyecto, Manual de Usuario, Diagramas UML, Casos de USO, Sure Step. 
+- 📫 Habilidades Blandas en Governance TI - Cobit, PMP, SCAMPI - CMMI, Agile, Kanban.
+- 🌱 Practica y aprendizaje en la creacion paginas Web con formularios de captura de datos.
+- 💼 Conocimientos de Visual Basic / HTML / CSS / PHP / C# / Visual.net / SharePoint.
+- 🤔 Adaptar los sistemas a las plataformas de SaaS, PaaS, IaaS en la Nube.
+- 💬 Crear Experimentos de Analitica. BI y algoritmos con Machine Learning.
 - 😄 Propositos: Analista de Datos BI, BigData, Power BI.
+- 👯 Incurcionar ampliamante en Lenguajes de Programacion Java, Phyton, C#.
 - ⚡ Crecer como Programador Full Stack, trabajar con Github, Git, Visual Studio Code.
 
