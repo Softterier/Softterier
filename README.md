@@ -17,7 +17,7 @@ Trabajo en la Oficina Planeacion como Gestor de proyectos en una Entidad del Est
 - 🤔 Adaptar los sistemas a las plataformas de SaaS, PaaS, IaaS en la Nube.
 - 💬 Crear Experimentos de Analitica. BI y algoritmos con Machine Learning.
 - 😄 Propositos: Analista de Datos BI, BigData, Power BI.
-- 👯 Incurcionar ampliamante en Lenguajes de Programacion Java, Phyton, C#.
+- 👯 Incursionar ampliamente en Lenguajes de Programacion Java, Phyton, C#.
 - ⚡ Crecer como Programador Full Stack, trabajar con Github, Git, Visual Studio Code.
 - 👋 Gestor del Sistema de Gestión de la Calidad iso 9001:2015. Apoyo en los Procesos de la Empresa.
 
