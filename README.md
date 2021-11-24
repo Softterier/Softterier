@@ -8,16 +8,17 @@ La capa logica en el equipos del Usuario, y la capa de Datos en los servidores d
 
 Trabajo en la Oficina Planeacion como Gestor de proyectos en una Entidad del Estado.
 
-### Pertenecia y Competencias Tecnicas.
+### Pertenecia y Competencias Técnicas.
 
 - 😄 Estoy trabajando en el Proyecto <a href="https://softterier.github.io/Protopito-PGN/">Patrimonio</a>  
 - 🔭 Documentacion Tecnica para inicio, seguimiento, desarrollo y entrega de proyectos.
-- 📝 -Diagramas UML, Casos de USO. 
+- 📝 Manual Técnico Proyecto, Manual de Usuario, Diagramas UML, Casos de USO. 
 - 🌱 Practica y aprendizaje creacion paginas Web y Lenguajes.
+- 💼 Habilidades: Visual Basic / HTML / CSS / PHP / C# / SharePoint.
 - 👯 Lenguajes de Programacion Java, Phyton, C#.
 - 🤔 Plataformas de SaaS, PaaS, IaaS en la Nube.
 - 💬 Experimentos y algoritmos con de Machine Learning.
 - 📫 Habilidades Blandas en Governance TI - Cobit, PMP, SCAMPI - CMMI, Agile, Kanban. 
-- 😄 Propositos. Analista de Datos BI, BigData, Power BI.
-- ⚡ Crecer como Programador Full Stack, trabajar con Github, Git, VisualStudio Code.
-- 💼 Habilidades: Visual Basic / HTML / CSS / PHP / C# / SharePoint.
+- 😄 Propositos: Analista de Datos BI, BigData, Power BI.
+- ⚡ Crecer como Programador Full Stack, trabajar con Github, Git, Visual Studio Code.
+
