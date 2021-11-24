@@ -1,5 +1,3 @@
-### Softterier 👋
-
 <img src="Banner_Git.png" alt="Girl in a jacket">
 
 Incialmente desarrollaba aplicaciones cliente Servidor con bases de datos MS Access, FoxPro 9, con codigo Visual Studio y motor SQL Server.
@@ -21,4 +19,5 @@ Trabajo en la Oficina Planeacion como Gestor de proyectos en una Entidad del Est
 - 😄 Propositos: Analista de Datos BI, BigData, Power BI.
 - 👯 Incurcionar ampliamante en Lenguajes de Programacion Java, Phyton, C#.
 - ⚡ Crecer como Programador Full Stack, trabajar con Github, Git, Visual Studio Code.
+- 👋 Gestor del Sistema de Gestión de la Calidad iso 9001:2015. Apoyo en los Procesos de la Empresa.
 
