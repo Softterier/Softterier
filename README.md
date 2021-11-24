@@ -6,7 +6,7 @@ Incialmente desarrollaba aplicaciones cliente Servidor con bases de datos MS Acc
 Los cambios Tecnológicos de TI nos llevaron a incursionar con aplicaciones WEB, colocando en Internet la capa de presentación,
 La capa logica en el equipos del Usuario, y la capa de Datos en los servidores de Datos con Azure SQL Database en la Nube privada. 
 
-Trabajo en la Oficina Planeacion como ##Gestor de proyectos en una Entidad del Estado. ##
+Trabajo en la Oficina Planeacion como Gestor de proyectos en una Entidad del Estado.
 
 ### Pertenecia y Competencias Tecnicas.
 
