@@ -10,7 +10,7 @@ Trabajo en la Oficina Planeacion como Gestor de proyectos en una Entidad del Est
 
 ### Pertenecia y Competencias Tecnicas.
 
-- 😄 Estoy trabajando en el Proyecto 'Patrimonio' <a href="https://softterier.github.io/Protopito-PGN/">Patrimonio</a>  
+- 😄 Estoy trabajando en el Proyecto <a href="https://softterier.github.io/Protopito-PGN/">Patrimonio</a>  
 - 🔭 Documentacion Tecnica para inicio, seguimiento, desarrollo y entrega de proyectos.
 - 📝 -Diagramas UML, Casos de USO. 
 - 🌱 Practica y aprendizaje creacion paginas Web y Lenguajes.
