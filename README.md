@@ -15,7 +15,7 @@ Trabajo en la Oficina Planeacion como Gestor de proyectos en una Entidad del Est
 - 📝 Documentación: Manual Técnico Proyecto, Manual de Usuario, Diagramas UML, Casos de USO, Sure Step. 
 - 📫 Habilidades Blandas en Governance TI - Cobit, PMP, SCAMPI - CMMI, Agile, Kanban.
 - 🌱 Practica y aprendizaje en la creacion paginas Web con formularios de captura de datos.
-- 💼 Conocimientos de Visual Basic / HTML / CSS / PHP / C# / Visual.net / SharePoint.
+- 💼 Conocimientos de Visual Basic / HTML / CSS / PHP / C# / Visual.net / SharePoint / SQL Server / MySQL
 - 🤔 Adaptar los sistemas a las plataformas de SaaS, PaaS, IaaS en la Nube.
 - 💬 Crear Experimentos de Analitica. BI y algoritmos con Machine Learning.
 - 😄 Propositos: Analista de Datos BI, BigData, Power BI.
