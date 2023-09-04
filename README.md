@@ -1,7 +1,9 @@
 <img src="Banner_Git.png" alt="Girl in a jacket">
 
-Incialmente desarrollaba aplicaciones cliente Servidor con bases de datos MS Access, FoxPro 9, con codigo Visual Studio y motor SQL Server.
-Los cambios Tecnológicos de TI nos llevaron a incursionar con aplicaciones WEB, colocando en Internet la capa de presentación,
+Actualemente desarrollo en Python con Django, 
+Incialmente desarrollaba aplicaciones cliente Servidor con bases de datos MS Access, con codigo Visual Studio.
+Lueg reforse el sesarrollo por codigo con Foxpro 9 y motor SQL Server.
+Los cambios Tecnológicos de TI nos llevaron a incursionar con aplicaciones WEB .Net, colocando en Internet la capa de presentación,
 La capa logica en el equipos del Usuario, y la capa de Datos en los servidores de Datos con Azure SQL Database en la Nube privada. 
 
 Trabajo en la Oficina Planeacion como Gestor de proyectos en una Entidad del Estado.
