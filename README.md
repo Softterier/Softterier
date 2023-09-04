@@ -11,7 +11,7 @@ Trabajo en la Oficina Planeacion como Gestor de proyectos en una Entidad del Est
 ### Pertenencia y Competencias Técnicas.
 
 - 😄 Estoy trabajando en el Proyecto <a href="https://softterier.github.io/Protopito-PGN/">Patrimonio</a>
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Vengo practicando hace dos años con el lenguaje **Phyton y Framework Django para un proyecto de ML**.</a> 
+- 😄 Vengo practicando hace dos años con el lenguaje **Phyton y Framework Django para un proyecto de ML**.![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </a> 
 - 🔭 Aplicación Metodología PMI para el inicio, seguimiento, desarrollo y entrega de proyectos.
 - 📝 Documentación: Manual Técnico Proyecto, Manual de Usuario, Diagramas UML, Casos de USO, Sure Step. 
 - 📫 Habilidades Blandas en Governance TI - Cobit, PMP, SCAMPI - CMMI, Agile, Kanban.
