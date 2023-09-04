@@ -1,6 +1,6 @@
 <img src="Banner_Git.png" alt="Girl in a jacket">
 
-Actualemente desarrollo en Python con Django, 
+Actualmente desarrollo en Python con Django, 
 Incialmente desarrollaba aplicaciones cliente Servidor con bases de datos MS Access, con codigo Visual Studio.
 Lueg reforse el sesarrollo por codigo con Foxpro 9 y motor SQL Server.
 Los cambios Tecnológicos de TI nos llevaron a incursionar con aplicaciones WEB .Net, colocando en Internet la capa de presentación,
