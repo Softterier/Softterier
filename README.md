@@ -8,10 +8,11 @@ La capa logica en el equipos del Usuario, y la capa de Datos en los servidores d
 
 Trabajo en la Oficina Planeacion como Gestor de proyectos en una Entidad del Estado.
 
-### Pertenecia y Competencias Técnicas.
+### Pertenencia y Competencias Técnicas.
 
-- 😄 Estoy trabajando en el Proyecto <a href="https://softterier.github.io/Protopito-PGN/">Patrimonio</a>  
-- 🔭 Aplicación Metodologia PMI para el inicio, seguimiento, desarrollo y entrega de proyectos.
+- 😄 Estoy trabajando en el Proyecto <a href="https://softterier.github.io/Protopito-PGN/">Patrimonio</a>
+- 😄 Estoy trabajando en el Proyecto <a href="https://softterier.github.io/Protopito-PGN/">Patrimonio</a> 
+- 🔭 Aplicación Metodología PMI para el inicio, seguimiento, desarrollo y entrega de proyectos.
 - 📝 Documentación: Manual Técnico Proyecto, Manual de Usuario, Diagramas UML, Casos de USO, Sure Step. 
 - 📫 Habilidades Blandas en Governance TI - Cobit, PMP, SCAMPI - CMMI, Agile, Kanban.
 - 🌱 Practica y aprendizaje en la creacion paginas Web con formularios de captura de datos.
